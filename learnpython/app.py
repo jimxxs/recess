@@ -16,7 +16,7 @@ print("1. Second item in the list:", names[1])
 
 # 2. Change the value of the first item to a new value
 names[0] = "James"
-print("2. List after changing first item:", names)  
+print("2. List after changing first item:", names)   
 
 # 3. Add a sixth item to the list
 names.append("Emma")
