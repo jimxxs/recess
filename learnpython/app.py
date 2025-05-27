@@ -12,7 +12,7 @@ print("EXERCISE 1: LISTS\n")
 
 # 1. Create a list with 5 items (names of people) and output the 2nd item
 names = ["John", "Mary", "David", "Sarah", "Michael"]
-print("1. Second item in the list:", names[1]) 
+print("1. Second item in the list:", names[1])  
 
 # 2. Change the value of the first item to a new value
 names[0] = "James"
